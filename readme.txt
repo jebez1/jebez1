@@ -7,7 +7,7 @@ https://drive.google.com/drive/folders/1OrEDS67-HjGR639jPtA4afzIFOchlxT5 writabl
 
 My PC / partition (when it's on, not always):
 ftp://[2a01:e0a:c5:b900:cca7:b7ee:84f2:6b6b]
-/run/media/a/9f0a973e-1b55-4c1b-a423-6c14c03cf9b7/! the Google Drive public read-only folder
+/run/media/a/9f0a973e-1b55-4c1b-a423-6c14c03cf9b7/0 my Google Drive public read-only folder
 /run/media/a/9f0a973e-1b55-4c1b-a423-6c14c03cf9b7/writable the only writable folder
 to write in the file manager bar, by FileZilla Server.
 
